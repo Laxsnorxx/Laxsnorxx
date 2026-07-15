@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- ░░░ ANIMATED HEADER BANNER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:000000,100:ffffff&height=230&section=header&text=Reden%20%7C%20Creative%20Dev%20Labs&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Laravel%20developer%20crafting%20clean%2C%20interactive%20web%20apps&descAlignY=56&descSize=17" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:000000,100:ffffff&height=230&section=header&text=Reden%20%7C%20CreativeDevLabs&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Laravel%20developer%20crafting%20clean%2C%20interactive%20web%20apps&descAlignY=56&descSize=17" alt="header"/>
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <a href="https://git.io/typing-svg">
@@ -40,7 +40,7 @@
 class Reden extends Developer
 {
     public string $role     = 'Laravel Full-Stack Developer';
-    public string $company  = 'Creative Dev Labs';
+    public string $company  = 'CreativeDevLabs';
     public string $location = '🌍 Remote';
 
     public array $stack = ['PHP', 'Laravel', 'Filament', 'Livewire', 'Tailwind CSS'];
