@@ -5,11 +5,11 @@
 
 # Reden
 
-**Laravel Full-Stack Developer** at [Creative Dev Labs](https://creativedevlabs.dev)
+**Web / Mobile App Developer**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=700&height=36&lines=Laravel+%C2%B7+Filament+%C2%B7+Livewire+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+React;Admin+panels+and+web+apps;Clean%2C+interactive+UI" width="700" alt="Typing animation cycling through: Laravel, Filament, Livewire, Next.js, Node.js and React; admin panels and web apps; clean, interactive UI">
 
-I build clean, interactive web apps and admin panels with Laravel, Filament, and Livewire.
+I build clean, interactive web apps, mobile apps, and admin panels with Laravel, Filament, Livewire, Next.js, React, and Node.js.
 
 [**Portfolio**](https://reden-portfolio.vercel.app) · [Email](mailto:rp.oreiro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/reden-paul-oreiro-123846423) · [GitHub](https://github.com/Laxsnorxx)
 
@@ -47,8 +47,7 @@ All projects: [reden-portfolio.vercel.app](https://reden-portfolio.vercel.app)
 
 class Reden extends Developer
 {
-    public string $role     = 'Laravel Full-Stack Developer';
-    public string $company  = 'Creative Dev Labs';
+    public string $role     = 'Web / Mobile App Developer';
     public string $location = '🌍 Remote';
 
     public array $stack = ['PHP', 'Laravel', 'Filament', 'Livewire', 'Tailwind CSS'];
@@ -61,7 +60,7 @@ class Reden extends Developer
 }
 ```
 
-**Currently building:** web apps at [Creative Dev Labs](https://creativedevlabs.dev)<br>
+**Currently building:** web and mobile apps<br>
 **Ask me about:** Laravel, Filament, Livewire, and clean UI
 
 ## Stack
