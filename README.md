@@ -47,8 +47,7 @@ All projects: [reden-portfolio.vercel.app](https://reden-portfolio.vercel.app)
 
 class Reden extends Developer
 {
-    public string $role     = 'Laravel Full-Stack Developer';
-    public string $company  = 'Creative Dev Labs';
+    public string $role     = 'Web / Mobile App Developer';
     public string $location = '🌍 Remote';
 
     public array $stack = ['PHP', 'Laravel', 'Filament', 'Livewire', 'Tailwind CSS'];
@@ -61,7 +60,7 @@ class Reden extends Developer
 }
 ```
 
-**Currently building:** web apps at [Creative Dev Labs](https://creativedevlabs.dev)<br>
+**Currently building:** web and mobile apps<br>
 **Ask me about:** Laravel, Filament, Livewire, and clean UI
 
 ## Stack
