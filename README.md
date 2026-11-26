@@ -19,26 +19,24 @@ I build clean, interactive web apps and admin panels with Laravel, Filament, and
 
 ## Featured work
 
-<!-- TODO: These cards stay hidden until filled in. Replace every TODO, drop a Live or Code link that doesn't exist, then delete this line and the END line.
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="./assets/project-1.png" width="100%" alt="TODO: describe what the screenshot shows">
-<h3>TODO: project name</h3>
-<p>TODO: one line on the problem it solves.</p>
-<p><sub>TODO: stack</sub></p>
-<p><a href="TODO-live-url"><b>Live</b></a> · <a href="TODO-code-url">Code</a></p>
+<img src="./assets/ibis.jpg" width="100%" alt="IBIS landing page: an illustrated night scene of a barangay hall and residents under the headline “One registry for all barangays of Bato, Leyte”">
+<h3>IBIS</h3>
+<p>Integrated Barangay Inhabitants System: puts every barangay's resident records in Bato, Leyte into one registry for the municipal government.</p>
+<p><sub>Laravel · Filament · Livewire · Tailwind CSS · React · TypeScript</sub></p>
+<p><a href="https://ibis.lgubatoleyte.gov.ph/"><b>Live</b></a></p>
 </td>
 <td width="50%" valign="top">
-<img src="./assets/project-2.png" width="100%" alt="TODO: describe what the screenshot shows">
-<h3>TODO: project name</h3>
-<p>TODO: one line on the problem it solves.</p>
-<p><sub>TODO: stack</sub></p>
-<p><a href="TODO-live-url"><b>Live</b></a> · <a href="TODO-code-url">Code</a></p>
+<img src="./assets/docn.jpg" width="100%" alt="Dr. N Clinic homepage with the headline “Medicine that treats the whole person, naturally” and a Book an appointment button">
+<h3>DocN</h3>
+<p>Lets patients of Dr. N Clinic, a naturopathic practice in Hilongos, Leyte, book appointments and sign in to a patient portal online.</p>
+<p><sub>Laravel · Filament · Livewire · Tailwind CSS</sub></p>
+<p><a href="https://docn.picson.online/"><b>Live</b></a></p>
 </td>
 </tr>
 </table>
-END featured work cards -->
 
 All projects: [reden-portfolio.vercel.app](https://reden-portfolio.vercel.app)
 
