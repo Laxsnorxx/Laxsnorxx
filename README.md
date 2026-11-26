@@ -97,14 +97,16 @@ class Reden extends Developer
 
 **Currently learning:** TypeScript, Next.js, React Native, AWS, and Android Studio
 
-## 📊 GitHub Analytics
+## Activity
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laxsnorxx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxsnorxx&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="top langs" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Laxsnorxx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=9198a1&icon_color=9198a1">
+  <img src="https://github-readme-stats.vercel.app/api?username=Laxsnorxx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=59636e" width="467" alt="Reden's GitHub stats: stars, commits, pull requests, issues and contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxsnorxx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=9198a1&icon_color=9198a1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxsnorxx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=59636e" width="300" alt="Most-used languages across Reden's public GitHub repositories">
+</picture>
 
 ## 🐍 Watch My Contributions Get Eaten
 
