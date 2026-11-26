@@ -7,7 +7,7 @@
 
 **Laravel Full-Stack Developer** at [Creative Dev Labs](https://creativedevlabs.dev)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=440&height=36&lines=Laravel+%C2%B7+Filament+%C2%B7+Livewire;Admin+panels+and+web+apps;Clean%2C+interactive+UI" width="440" alt="Typing animation cycling through: Laravel, Filament and Livewire; admin panels and web apps; clean, interactive UI">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=700&height=36&lines=Laravel+%C2%B7+Filament+%C2%B7+Livewire+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+React;Admin+panels+and+web+apps;Clean%2C+interactive+UI" width="700" alt="Typing animation cycling through: Laravel, Filament, Livewire, Next.js, Node.js and React; admin panels and web apps; clean, interactive UI">
 
 I build clean, interactive web apps and admin panels with Laravel, Filament, and Livewire.
 
@@ -66,11 +66,11 @@ class Reden extends Developer
 
 ## Stack
 
-**Core:** PHP, Laravel, Filament, Livewire, JavaScript, Tailwind CSS, HTML, CSS
+**Core:** PHP, Laravel, Filament, Livewire, JavaScript, React, Next.js, Node.js, Tailwind CSS, HTML, CSS
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,javascript,tailwindcss,html,css&theme=dark">
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,tailwindcss,html,css&theme=light" width="329" alt="PHP, Laravel, JavaScript, Tailwind CSS, HTML and CSS icons">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,javascript,react,nextjs,nodejs,tailwindcss,html,css&theme=dark">
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,react,nextjs,nodejs,tailwindcss,html,css&theme=light" width="498" alt="PHP, Laravel, JavaScript, React, Next.js, Node.js, Tailwind CSS, HTML and CSS icons">
 </picture><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Filament-242938?style=for-the-badge&logo=filament&logoColor=white"><img src="https://img.shields.io/badge/Filament-F4F2ED?style=for-the-badge&logo=filament&logoColor=1f2328" width="111" alt="Filament"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Livewire-242938?style=for-the-badge&logo=livewire&logoColor=white"><img src="https://img.shields.io/badge/Livewire-F4F2ED?style=for-the-badge&logo=livewire&logoColor=1f2328" width="111" alt="Livewire"></picture>
