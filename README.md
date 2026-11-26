@@ -1,38 +1,46 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--  This file lives in a PUBLIC repo named exactly  Laxsnorxx  so GitHub    -->
-<!--  renders it at the top of your profile.                                  -->
-<!--  🎨 Theme: monochrome  BLACK  ⇄  WHITE                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- Profile README for github.com/Laxsnorxx. GitHub Actions generate the snake SVGs (output branch)
+     and the 3D calendar (profile-3d-contrib/); don't edit those by hand. Accent color: #FF2D20. -->
 
 <div align="center">
 
-<!-- ░░░ ANIMATED HEADER BANNER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:000000,100:ffffff&height=230&section=header&text=Reden%20%7C%20Creative%20Dev%20Labs&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Laravel%20developer%20crafting%20clean%2C%20interactive%20web%20apps&descAlignY=56&descSize=17" alt="header"/>
+# Reden
 
-<!-- ░░░ TYPING ANIMATION ░░░ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=650&height=45&lines=Laravel+Full-Stack+Developer+%F0%9F%92%BB;Filament+%26+Livewire+Builder+%E2%9A%A1;PHP+%7C+MySQL+%7C+PostgreSQL+%F0%9F%97%84%EF%B8%8F;Always+Leveling+Up+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+**Laravel Full-Stack Developer** at [Creative Dev Labs](https://creativedevlabs.dev)
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=440&height=36&lines=Laravel+%C2%B7+Filament+%C2%B7+Livewire;Admin+panels+and+web+apps;Clean%2C+interactive+UI" width="440" alt="Typing animation cycling through: Laravel, Filament and Livewire; admin panels and web apps; clean, interactive UI">
 
-<!-- ░░░ PROFILE COUNTER + FOLLOWERS + COLLAB ░░░ -->
-<img src="https://komarev.com/ghpvc/?username=Laxsnorxx&label=Profile%20Views&color=000000&style=for-the-badge" alt="profile views" />
-<a href="https://github.com/Laxsnorxx?tab=followers">
-  <img src="https://img.shields.io/github/followers/Laxsnorxx?label=Followers&style=for-the-badge&color=ffffff&labelColor=000000" alt="followers" />
-</a>
-<a href="https://github.com/Laxsnorxx?tab=repositories">
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-000000?style=for-the-badge" alt="collab" />
-</a>
+I build clean, interactive web apps and admin panels with Laravel, Filament, and Livewire.
 
-<br/>
+[**Portfolio**](https://reden-portfolio.vercel.app) · [Email](mailto:rp.oreiro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/reden-paul-oreiro-123846423) · [GitHub](https://github.com/Laxsnorxx)
 
-<!-- ░░░ GRADIENT DIVIDER (black → white → black, glows on dark bg) ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" alt="divider"/>
+<a href="mailto:rp.oreiro@gmail.com"><img src="https://img.shields.io/badge/Open%20to%20collaboration-FF2D20?style=for-the-badge" width="200" alt="Open to collaboration: email Reden"></a>
 
 </div>
 
-## 🧑‍💻 About Me
+## Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/ibis.jpg" width="100%" alt="IBIS landing page: an illustrated night scene of a barangay hall and residents under the headline “One registry for all barangays of Bato, Leyte”">
+<h3>IBIS</h3>
+<p>Integrated Barangay Inhabitants System: puts every barangay's resident records in Bato, Leyte into one registry for the municipal government.</p>
+<p><sub>Laravel · Filament · Livewire · Tailwind CSS · React · TypeScript</sub></p>
+<p><a href="https://ibis.lgubatoleyte.gov.ph/"><b>Live</b></a></p>
+</td>
+<td width="50%" valign="top">
+<img src="./assets/docn.jpg" width="100%" alt="Dr. N Clinic homepage with the headline “Medicine that treats the whole person, naturally” and a Book an appointment button">
+<h3>DocN</h3>
+<p>Lets patients of Dr. N Clinic, a naturopathic practice in Hilongos, Leyte, book appointments and sign in to a patient portal online.</p>
+<p><sub>Laravel · Filament · Livewire · Tailwind CSS</sub></p>
+<p><a href="https://docn.picson.online/"><b>Live</b></a></p>
+</td>
+</tr>
+</table>
+
+All projects: [reden-portfolio.vercel.app](https://reden-portfolio.vercel.app)
+
+## About
 
 ```php
 <?php
@@ -53,166 +61,65 @@ class Reden extends Developer
 }
 ```
 
-- 🔭 &nbsp;Currently building **web apps at [creativedevlabs.dev](https://creativedevlabs.dev)**
-- 🌱 &nbsp;Leveling up in **TypeScript, Next.js, React Native & AWS**
-- 👯 &nbsp;Looking to collaborate on **Laravel / open-source projects**
-- 💬 &nbsp;Ask me about **Laravel, Filament, Livewire & clean UI**
-- ⚡ &nbsp;Fun fact: **a good README is worth a thousand pitches**
+**Currently building:** web apps at [Creative Dev Labs](https://creativedevlabs.dev)<br>
+**Ask me about:** Laravel, Filament, Livewire, and clean UI
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" alt="divider"/>
-</div>
+## Stack
 
-## 🛠️ Tech Stack
+**Core:** PHP, Laravel, Filament, Livewire, JavaScript, Tailwind CSS, HTML, CSS
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,javascript,tailwindcss,html,css&theme=dark">
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,tailwindcss,html,css&theme=light" width="329" alt="PHP, Laravel, JavaScript, Tailwind CSS, HTML and CSS icons">
+</picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Filament-242938?style=for-the-badge&logo=filament&logoColor=white"><img src="https://img.shields.io/badge/Filament-F4F2ED?style=for-the-badge&logo=filament&logoColor=1f2328" width="111" alt="Filament"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Livewire-242938?style=for-the-badge&logo=livewire&logoColor=white"><img src="https://img.shields.io/badge/Livewire-F4F2ED?style=for-the-badge&logo=livewire&logoColor=1f2328" width="111" alt="Livewire"></picture>
 
-### 💪 Core Stack
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-000000?style=for-the-badge&logo=livewire&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+**Data:** MySQL, PostgreSQL, Supabase, HeidiSQL
 
-### 🗄️ Databases & Data
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-000000?style=for-the-badge&logo=mariadbfoundation&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgresql,supabase&theme=dark">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase&theme=light" width="160" alt="MySQL, PostgreSQL and Supabase icons">
+</picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HeidiSQL-242938?style=for-the-badge&logo=mariadbfoundation&logoColor=white"><img src="https://img.shields.io/badge/HeidiSQL-F4F2ED?style=for-the-badge&logo=mariadbfoundation&logoColor=1f2328" width="110" alt="HeidiSQL"></picture>
 
-### ☁️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000000?style=for-the-badge&logo=digitalocean&logoColor=white)
+**Tooling:** Git, GitHub, DigitalOcean
 
-### 🌱 Still Learning
-> Actively leveling up in these — foundations down, going deeper every day.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github&theme=dark">
+  <img src="https://skillicons.dev/icons?i=git,github&theme=light" width="104" alt="Git and GitHub icons">
+</picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DigitalOcean-242938?style=for-the-badge&logo=digitalocean&logoColor=white"><img src="https://img.shields.io/badge/DigitalOcean-F4F2ED?style=for-the-badge&logo=digitalocean&logoColor=1f2328" width="146" alt="DigitalOcean"></picture>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-Still%20Learning-ffffff?style=flat-square&logo=typescript&logoColor=black&labelColor=e0e0e0)
-![JavaScript](https://img.shields.io/badge/JavaScript-Still%20Learning-ffffff?style=flat-square&logo=javascript&logoColor=black&labelColor=e0e0e0)
-![Next.js](https://img.shields.io/badge/Next.js-Still%20Learning-ffffff?style=flat-square&logo=nextdotjs&logoColor=black&labelColor=e0e0e0)
-![React Native](https://img.shields.io/badge/React%20Native-Still%20Learning-ffffff?style=flat-square&logo=react&logoColor=black&labelColor=e0e0e0)
-![AWS](https://img.shields.io/badge/AWS-Still%20Learning-ffffff?style=flat-square&logo=amazonwebservices&logoColor=black&labelColor=e0e0e0)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-Still%20Learning-ffffff?style=flat-square&logo=androidstudio&logoColor=black&labelColor=e0e0e0)
+## Activity
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" alt="divider"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Laxsnorxx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=9198a1&icon_color=9198a1">
+  <img src="https://github-readme-stats.vercel.app/api?username=Laxsnorxx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=59636e" width="467" alt="Reden's GitHub stats: stars, commits, pull requests, issues and contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxsnorxx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=9198a1&icon_color=9198a1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxsnorxx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=59636e" width="300" alt="Most-used languages across Reden's public GitHub repositories">
+</picture>
 
-</div>
+## Contact
 
-## 📊 GitHub Analytics
+Open to collaboration. Email is the fastest way to reach me.
 
-<div align="center">
+[**Portfolio**](https://reden-portfolio.vercel.app) · [Email](mailto:rp.oreiro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/reden-paul-oreiro-123846423) · [GitHub](https://github.com/Laxsnorxx)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laxsnorxx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxsnorxx&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="top langs" />
+<details>
+<summary>Fun stuff</summary>
+<br>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laxsnorxx/Laxsnorxx/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Laxsnorxx/Laxsnorxx/output/github-contribution-grid-snake.svg" width="100%" alt="Animation of a snake eating the squares of Reden's GitHub contribution grid">
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laxsnorxx&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff" alt="streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laxsnorxx/Laxsnorxx/main/profile-3d-contrib/profile-night-view.svg">
+  <img src="https://raw.githubusercontent.com/Laxsnorxx/Laxsnorxx/main/profile-3d-contrib/profile-green.svg" width="100%" alt="3D bar chart of Reden's GitHub contributions over the past year">
+</picture>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" alt="divider"/>
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Laxsnorxx&hide_border=true&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=555555" alt="activity graph" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" alt="divider"/>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Laxsnorxx&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" alt="divider"/>
-
-</div>
-
-## 🐍 Watch My Contributions Get Eaten
-
-<!--
-  Auto-generated by the GitHub Action in .github/workflows/snake.yml.
-  Before that Action runs once, GitHub shows a broken image here — that's normal.
--->
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Laxsnorxx/Laxsnorxx/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" alt="divider"/>
-
-</div>
-
-## 🧊 3D Contribution Calendar
-
-<!--
-  Auto-generated by the GitHub Action in .github/workflows/profile-3d.yml.
-  Files are committed to  profile-3d-contrib/  on your default branch.
-  Before that Action runs once, GitHub shows a broken image here — that's normal.
--->
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Laxsnorxx/Laxsnorxx/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" alt="divider"/>
-
-</div>
-
-## 💼 Featured Projects
-
-<div align="center">
-
-<!-- Replace PROJECT_ONE / PROJECT_TWO with real repo names -->
-<a href="https://github.com/Laxsnorxx/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxsnorxx&repo=PROJECT_ONE&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" alt="project one" />
-</a>
-<a href="https://github.com/Laxsnorxx/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxsnorxx&repo=PROJECT_TWO&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" alt="project two" />
-</a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" alt="divider"/>
-
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://creativedevlabs.dev">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
-</a>
-<a href="mailto:reden@creativedevlabs.dev">
-  <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=ffffff" alt="email" />
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/X%2FTwitter-ffffff?style=for-the-badge&logo=x&logoColor=black&labelColor=ffffff" alt="twitter" />
-</a>
-
-</div>
-
-<div align="center">
-
-### 💡 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="quote" />
-
-<br/><br/>
-
-<i>⭐️ From <a href="https://github.com/Laxsnorxx">Reden</a> — thanks for stopping by!</i>
-
-<!-- ░░░ ANIMATED FOOTER (white → black) ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:000000,100:000000&height=140&section=footer" alt="footer"/>
-
-</div>
+</details>
