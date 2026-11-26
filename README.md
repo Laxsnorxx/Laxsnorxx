@@ -21,7 +21,7 @@
 <a href="https://github.com/Laxsnorxx?tab=followers">
   <img src="https://img.shields.io/github/followers/Laxsnorxx?label=Followers&style=for-the-badge&color=ffffff&labelColor=000000" alt="followers" />
 </a>
-<a href="https://github.com/Laxsnorxx?tab=repositories">
+<a href="mailto:reden@creativedevlabs.dev">
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-000000?style=for-the-badge" alt="collab" />
 </a>
 
@@ -171,7 +171,7 @@ class Reden extends Developer
 
 <div align="center">
 
-<a href="https://creativedevlabs.dev">
+<a href="https://reden-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
 </a>
 <a href="mailto:reden@creativedevlabs.dev">
