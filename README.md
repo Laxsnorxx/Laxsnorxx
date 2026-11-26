@@ -93,8 +93,6 @@ class Reden extends Developer
 </picture><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DigitalOcean-242938?style=for-the-badge&logo=digitalocean&logoColor=white"><img src="https://img.shields.io/badge/DigitalOcean-F4F2ED?style=for-the-badge&logo=digitalocean&logoColor=1f2328" width="146" alt="DigitalOcean"></picture>
 
-**Currently learning:** TypeScript, Next.js, React Native, AWS, and Android Studio
-
 ## Activity
 
 <picture>
