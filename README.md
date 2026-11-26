@@ -167,22 +167,6 @@ class Reden extends Developer
 
 </div>
 
-## 💼 Featured Projects
-
-<div align="center">
-
-<!-- Replace PROJECT_ONE / PROJECT_TWO with real repo names -->
-<a href="https://github.com/Laxsnorxx/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxsnorxx&repo=PROJECT_ONE&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" alt="project one" />
-</a>
-<a href="https://github.com/Laxsnorxx/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxsnorxx&repo=PROJECT_TWO&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" alt="project two" />
-</a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" alt="divider"/>
-
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -193,12 +177,7 @@ class Reden extends Developer
 <a href="mailto:reden@creativedevlabs.dev">
   <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=ffffff" alt="email" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/X%2FTwitter-ffffff?style=for-the-badge&logo=x&logoColor=black&labelColor=ffffff" alt="twitter" />
-</a>
+<!-- TODO: add your LinkedIn URL here. -->
 
 </div>
 
