@@ -1,21 +1,21 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--  This file lives in a PUBLIC repo named exactly  Laxsnorxx  so GitHub    -->
-<!--  renders it at the top of your profile.                                  -->
-<!--  🎨 Theme: monochrome  BLACK  ⇄  WHITE                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- Profile README for github.com/Laxsnorxx. GitHub Actions generate the snake SVGs (output branch)
+     and the 3D calendar (profile-3d-contrib/); don't edit those by hand. Accent color: #FF2D20. -->
 
 <div align="center">
 
-<!-- ░░░ TYPING ANIMATION ░░░ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=650&height=45&lines=Laravel+Full-Stack+Developer+%F0%9F%92%BB;Filament+%26+Livewire+Builder+%E2%9A%A1;PHP+%7C+MySQL+%7C+PostgreSQL+%F0%9F%97%84%EF%B8%8F;Always+Leveling+Up+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+# Reden
 
-<br/>
+**Laravel Full-Stack Developer** at [Creative Dev Labs](https://creativedevlabs.dev)
+<!-- TODO: Confirm whether to also mention that you're a student. If yes, add it to the line above. -->
 
-<a href="mailto:reden@creativedevlabs.dev">
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-000000?style=for-the-badge" alt="collab" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=440&height=36&lines=Laravel+%C2%B7+Filament+%C2%B7+Livewire;Admin+panels+and+web+apps;Clean%2C+interactive+UI" width="440" alt="Typing animation cycling through: Laravel, Filament and Livewire; admin panels and web apps; clean, interactive UI">
+
+I build clean, interactive web apps and admin panels with Laravel, Filament, and Livewire.
+
+[**Portfolio**](https://reden-portfolio.vercel.app) · [Email](mailto:reden@creativedevlabs.dev) · [GitHub](https://github.com/Laxsnorxx)
+<!-- TODO: Add " · [LinkedIn](<your profile URL>)" after Email, here and in the Contact section. -->
+
+<a href="mailto:reden@creativedevlabs.dev"><img src="https://img.shields.io/badge/Open%20to%20collaboration-FF2D20?style=for-the-badge" width="200" alt="Open to collaboration: email Reden"></a>
 
 </div>
 
