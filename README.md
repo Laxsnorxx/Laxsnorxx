@@ -6,16 +6,14 @@
 # Reden
 
 **Laravel Full-Stack Developer** at [Creative Dev Labs](https://creativedevlabs.dev)
-<!-- TODO: Confirm whether to also mention that you're a student. If yes, add it to the line above. -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=440&height=36&lines=Laravel+%C2%B7+Filament+%C2%B7+Livewire;Admin+panels+and+web+apps;Clean%2C+interactive+UI" width="440" alt="Typing animation cycling through: Laravel, Filament and Livewire; admin panels and web apps; clean, interactive UI">
 
 I build clean, interactive web apps and admin panels with Laravel, Filament, and Livewire.
 
-[**Portfolio**](https://reden-portfolio.vercel.app) · [Email](mailto:reden@creativedevlabs.dev) · [GitHub](https://github.com/Laxsnorxx)
-<!-- TODO: Add " · [LinkedIn](<your profile URL>)" after Email, here and in the Contact section. -->
+[**Portfolio**](https://reden-portfolio.vercel.app) · [Email](mailto:rp.oreiro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/reden-paul-oreiro-123846423) · [GitHub](https://github.com/Laxsnorxx)
 
-<a href="mailto:reden@creativedevlabs.dev"><img src="https://img.shields.io/badge/Open%20to%20collaboration-FF2D20?style=for-the-badge" width="200" alt="Open to collaboration: email Reden"></a>
+<a href="mailto:rp.oreiro@gmail.com"><img src="https://img.shields.io/badge/Open%20to%20collaboration-FF2D20?style=for-the-badge" width="200" alt="Open to collaboration: email Reden"></a>
 
 </div>
 
@@ -112,8 +110,7 @@ class Reden extends Developer
 
 Open to collaboration. Email is the fastest way to reach me.
 
-[**Portfolio**](https://reden-portfolio.vercel.app) · [Email](mailto:reden@creativedevlabs.dev) · [GitHub](https://github.com/Laxsnorxx)
-<!-- TODO: Add " · [LinkedIn](<your profile URL>)" after Email, matching the intro. -->
+[**Portfolio**](https://reden-portfolio.vercel.app) · [Email](mailto:rp.oreiro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/reden-paul-oreiro-123846423) · [GitHub](https://github.com/Laxsnorxx)
 
 <details>
 <summary>Fun stuff</summary>
