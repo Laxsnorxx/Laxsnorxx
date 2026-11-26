@@ -44,7 +44,7 @@ END featured work cards -->
 
 All projects: [reden-portfolio.vercel.app](https://reden-portfolio.vercel.app)
 
-## 🧑‍💻 About Me
+## About
 
 ```php
 <?php
@@ -65,47 +65,37 @@ class Reden extends Developer
 }
 ```
 
-- 🔭 &nbsp;Currently building **web apps at [creativedevlabs.dev](https://creativedevlabs.dev)**
-- 🌱 &nbsp;Leveling up in **TypeScript, Next.js, React Native & AWS**
-- 👯 &nbsp;Looking to collaborate on **Laravel / open-source projects**
-- 💬 &nbsp;Ask me about **Laravel, Filament, Livewire & clean UI**
-- ⚡ &nbsp;Fun fact: **a good README is worth a thousand pitches**
+**Currently building:** web apps at [Creative Dev Labs](https://creativedevlabs.dev)<br>
+**Ask me about:** Laravel, Filament, Livewire, and clean UI
 
-## 🛠️ Tech Stack
+## Stack
 
-<div align="center">
+**Core:** PHP, Laravel, Filament, Livewire, JavaScript, Tailwind CSS, HTML, CSS
 
-### 💪 Core Stack
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-000000?style=for-the-badge&logo=livewire&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,javascript,tailwindcss,html,css&theme=dark">
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,tailwindcss,html,css&theme=light" width="329" alt="PHP, Laravel, JavaScript, Tailwind CSS, HTML and CSS icons">
+</picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Filament-242938?style=for-the-badge&logo=filament&logoColor=white"><img src="https://img.shields.io/badge/Filament-F4F2ED?style=for-the-badge&logo=filament&logoColor=1f2328" width="111" alt="Filament"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Livewire-242938?style=for-the-badge&logo=livewire&logoColor=white"><img src="https://img.shields.io/badge/Livewire-F4F2ED?style=for-the-badge&logo=livewire&logoColor=1f2328" width="111" alt="Livewire"></picture>
 
-### 🗄️ Databases & Data
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-000000?style=for-the-badge&logo=mariadbfoundation&logoColor=white)
+**Data:** MySQL, PostgreSQL, Supabase, HeidiSQL
 
-### ☁️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000000?style=for-the-badge&logo=digitalocean&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgresql,supabase&theme=dark">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase&theme=light" width="160" alt="MySQL, PostgreSQL and Supabase icons">
+</picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HeidiSQL-242938?style=for-the-badge&logo=mariadbfoundation&logoColor=white"><img src="https://img.shields.io/badge/HeidiSQL-F4F2ED?style=for-the-badge&logo=mariadbfoundation&logoColor=1f2328" width="110" alt="HeidiSQL"></picture>
 
-### 🌱 Still Learning
-> Actively leveling up in these — foundations down, going deeper every day.
+**Tooling:** Git, GitHub, DigitalOcean
 
-![TypeScript](https://img.shields.io/badge/TypeScript-Still%20Learning-ffffff?style=flat-square&logo=typescript&logoColor=black&labelColor=e0e0e0)
-![JavaScript](https://img.shields.io/badge/JavaScript-Still%20Learning-ffffff?style=flat-square&logo=javascript&logoColor=black&labelColor=e0e0e0)
-![Next.js](https://img.shields.io/badge/Next.js-Still%20Learning-ffffff?style=flat-square&logo=nextdotjs&logoColor=black&labelColor=e0e0e0)
-![React Native](https://img.shields.io/badge/React%20Native-Still%20Learning-ffffff?style=flat-square&logo=react&logoColor=black&labelColor=e0e0e0)
-![AWS](https://img.shields.io/badge/AWS-Still%20Learning-ffffff?style=flat-square&logo=amazonwebservices&logoColor=black&labelColor=e0e0e0)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-Still%20Learning-ffffff?style=flat-square&logo=androidstudio&logoColor=black&labelColor=e0e0e0)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github&theme=dark">
+  <img src="https://skillicons.dev/icons?i=git,github&theme=light" width="104" alt="Git and GitHub icons">
+</picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DigitalOcean-242938?style=for-the-badge&logo=digitalocean&logoColor=white"><img src="https://img.shields.io/badge/DigitalOcean-F4F2ED?style=for-the-badge&logo=digitalocean&logoColor=1f2328" width="146" alt="DigitalOcean"></picture>
 
-</div>
+**Currently learning:** TypeScript, Next.js, React Native, AWS, and Android Studio
 
 ## 📊 GitHub Analytics
 
