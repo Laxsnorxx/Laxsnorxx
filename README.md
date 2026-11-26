@@ -19,6 +19,31 @@ I build clean, interactive web apps and admin panels with Laravel, Filament, and
 
 </div>
 
+## Featured work
+
+<!-- TODO: These cards stay hidden until filled in. Replace every TODO, drop a Live or Code link that doesn't exist, then delete this line and the END line.
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/project-1.png" width="100%" alt="TODO: describe what the screenshot shows">
+<h3>TODO: project name</h3>
+<p>TODO: one line on the problem it solves.</p>
+<p><sub>TODO: stack</sub></p>
+<p><a href="TODO-live-url"><b>Live</b></a> · <a href="TODO-code-url">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<img src="./assets/project-2.png" width="100%" alt="TODO: describe what the screenshot shows">
+<h3>TODO: project name</h3>
+<p>TODO: one line on the problem it solves.</p>
+<p><sub>TODO: stack</sub></p>
+<p><a href="TODO-live-url"><b>Live</b></a> · <a href="TODO-code-url">Code</a></p>
+</td>
+</tr>
+</table>
+END featured work cards -->
+
+All projects: [reden-portfolio.vercel.app](https://reden-portfolio.vercel.app)
+
 ## 🧑‍💻 About Me
 
 ```php
